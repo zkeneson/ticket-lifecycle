@@ -9,7 +9,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- osTicket Software
 
 <h2>Operating Systems Used </h2>
 
@@ -25,25 +25,38 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/b4674b0e-35bf-411d-b1ad-94e78a85eaac" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Karen has submitted a ticket regarding the online mobile banking system being down.  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="746" alt="image" src="https://github.com/user-attachments/assets/8eb17e21-addf-43f1-be33-60db1bdba941" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ This is the ticket intake view for the Support Team. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="740" alt="image" src="https://github.com/user-attachments/assets/c40f6afb-2520-4cbf-9e8d-9bd2aab6aa7d" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Assigned the ticket to Jane Doe, the employee responsible for this ticket. John Doe has updated the SLA and Help Topic accordingl to the severity of the problem.
+</p>
+<br />
+
+<p>
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/6e13d063-64b4-4528-b046-7ace63090828" />
+
+</p>
+<p>
+Jane has posted that reason she thinks this problem is happening. She then implements her solution and resolves the ticket. 
 </p>
 <br />
